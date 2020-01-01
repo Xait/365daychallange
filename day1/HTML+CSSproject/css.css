@@ -1,5 +1,4 @@
-
-  .stained-glass
+.one
 {
  position: relative;
  width: 900px;
@@ -7,7 +6,7 @@
   margin: 0 auto;
 }
 
-.stained-glass__part
+.photo
 {
   position: absolute;
   box-shadow: 0 0 25px rgba(0,0,0,0.9);
@@ -16,11 +15,11 @@
   background-color: #ccc;
   transition: all 1s;
 }
-.stained-glass__part:hover
+.photo:hover
 {
 transform: scale(1.2)	
 }
-.stained-glass__part:nth-child(1)
+.photo:nth-child(1)
 {
   top: 150px;
   z-index: 2;
@@ -29,7 +28,7 @@ transform: scale(1.2)
   background-position: 0 -150px;
 }
 
-.stained-glass__part:nth-child(2)
+.photo:nth-child(2)
 {
   top: 80px;
   left: 100px;
@@ -39,7 +38,7 @@ transform: scale(1.2)
   background-position: -100px -80px;
 }
 
-.stained-glass__part:nth-child(3)
+.photo:nth-child(3)
 {
   left: 375px;
   z-index: 3;
@@ -48,7 +47,7 @@ transform: scale(1.2)
   background-position: -375px 0;
 }
 
-.stained-glass__part:nth-child(4)
+.photo:nth-child(4)
 {
   top: 30px;
   left: 500px;
