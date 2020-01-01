@@ -1,4 +1,7 @@
 В этом видео вы увидети как создать простой коллаж на HTML CSS
 
-Готовый код на: https://codepen.io/hayit/pen/abzLKPa
+Готовый код в: https://codepen.io/hayit/pen/abzLKPa
 
+Если хотите поменять изображения вам надо на css файле поменять из класса **stained-glass__part** 
+background-image: url(*на свою ссылку*)
+и после этого вы можете пользоваться как хотите
