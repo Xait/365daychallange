@@ -5,3 +5,16 @@
 https://www.dafont.com/doctor-glitch.font  
 https://fonts.google.com/specimen/Lato  
 https://befonts.com/allic-script-font.html
+
+
+
+Как с ними работать, для этого  вам понадибатся PS(PHOTOSHOP)
+Открываем файл
+Перейдем на панел "СЛОИ"(их можете нажимая клавишу F7 или "Окно -> Слои"
+Чтобы изменять тексты вам надо нажать клавишу "T" или TEXT
+ 
+
+1.	Два раза нажиаем на "YOUR PHOTO IMAGE" 
+2.  Туда можете закинуть свои фотки
+3.	СОХРАНЯЕМ: ФАЙД/СОХРАНИТЬ или ctrl+S для PC или cmd+S для Mac
+4.	Закрываем эту окно и ву аля 
